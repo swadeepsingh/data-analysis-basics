@@ -1,4 +1,4 @@
-# Data Analysis with Pandas
+# Data Analysis Basics
 
 Understand the basics of data analysis using pandas, numpy, and matplotlib.
 
